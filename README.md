@@ -1,4 +1,4 @@
-# NPM packages:
+# NPM packages in the project:
 ## Frontend
 - axios
 - bootstrap
